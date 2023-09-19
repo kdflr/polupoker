@@ -1,0 +1,14 @@
+/home/kdflr/kdflr/OOP-ICT.First/bin/Debug/net7.0/OOP-ICT.First
+/home/kdflr/kdflr/OOP-ICT.First/bin/Debug/net7.0/OOP-ICT.First.deps.json
+/home/kdflr/kdflr/OOP-ICT.First/bin/Debug/net7.0/OOP-ICT.First.runtimeconfig.json
+/home/kdflr/kdflr/OOP-ICT.First/bin/Debug/net7.0/OOP-ICT.First.dll
+/home/kdflr/kdflr/OOP-ICT.First/bin/Debug/net7.0/OOP-ICT.First.pdb
+/home/kdflr/kdflr/OOP-ICT.First/obj/Debug/net7.0/OOP-ICT.First.GeneratedMSBuildEditorConfig.editorconfig
+/home/kdflr/kdflr/OOP-ICT.First/obj/Debug/net7.0/OOP-ICT.First.AssemblyInfoInputs.cache
+/home/kdflr/kdflr/OOP-ICT.First/obj/Debug/net7.0/OOP-ICT.First.AssemblyInfo.cs
+/home/kdflr/kdflr/OOP-ICT.First/obj/Debug/net7.0/OOP-ICT.First.csproj.CoreCompileInputs.cache
+/home/kdflr/kdflr/OOP-ICT.First/obj/Debug/net7.0/OOP-ICT.First.dll
+/home/kdflr/kdflr/OOP-ICT.First/obj/Debug/net7.0/refint/OOP-ICT.First.dll
+/home/kdflr/kdflr/OOP-ICT.First/obj/Debug/net7.0/OOP-ICT.First.pdb
+/home/kdflr/kdflr/OOP-ICT.First/obj/Debug/net7.0/OOP-ICT.First.genruntimeconfig.cache
+/home/kdflr/kdflr/OOP-ICT.First/obj/Debug/net7.0/ref/OOP-ICT.First.dll

@@ -1,0 +1,4 @@
+/home/kdflr/kdflr/OOP-ICT.Second.Tests/obj/Debug/net6.0/OOP-ICT.Second.Tests.GeneratedMSBuildEditorConfig.editorconfig
+/home/kdflr/kdflr/OOP-ICT.Second.Tests/obj/Debug/net6.0/OOP-ICT.Second.Tests.AssemblyInfoInputs.cache
+/home/kdflr/kdflr/OOP-ICT.Second.Tests/obj/Debug/net6.0/OOP-ICT.Second.Tests.AssemblyInfo.cs
+/home/kdflr/kdflr/OOP-ICT.Second.Tests/obj/Debug/net6.0/OOP-ICT.Second.Tests.csproj.CoreCompileInputs.cache

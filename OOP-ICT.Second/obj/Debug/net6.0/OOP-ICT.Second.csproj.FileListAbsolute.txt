@@ -1,0 +1,14 @@
+/home/kdflr/kdflr/OOP-ICT.Second/bin/Debug/net6.0/OOP-ICT.Second
+/home/kdflr/kdflr/OOP-ICT.Second/bin/Debug/net6.0/OOP-ICT.Second.deps.json
+/home/kdflr/kdflr/OOP-ICT.Second/bin/Debug/net6.0/OOP-ICT.Second.runtimeconfig.json
+/home/kdflr/kdflr/OOP-ICT.Second/bin/Debug/net6.0/OOP-ICT.Second.dll
+/home/kdflr/kdflr/OOP-ICT.Second/bin/Debug/net6.0/OOP-ICT.Second.pdb
+/home/kdflr/kdflr/OOP-ICT.Second/obj/Debug/net6.0/OOP-ICT.Second.GeneratedMSBuildEditorConfig.editorconfig
+/home/kdflr/kdflr/OOP-ICT.Second/obj/Debug/net6.0/OOP-ICT.Second.AssemblyInfoInputs.cache
+/home/kdflr/kdflr/OOP-ICT.Second/obj/Debug/net6.0/OOP-ICT.Second.AssemblyInfo.cs
+/home/kdflr/kdflr/OOP-ICT.Second/obj/Debug/net6.0/OOP-ICT.Second.csproj.CoreCompileInputs.cache
+/home/kdflr/kdflr/OOP-ICT.Second/obj/Debug/net6.0/OOP-ICT.Second.dll
+/home/kdflr/kdflr/OOP-ICT.Second/obj/Debug/net6.0/refint/OOP-ICT.Second.dll
+/home/kdflr/kdflr/OOP-ICT.Second/obj/Debug/net6.0/OOP-ICT.Second.pdb
+/home/kdflr/kdflr/OOP-ICT.Second/obj/Debug/net6.0/OOP-ICT.Second.genruntimeconfig.cache
+/home/kdflr/kdflr/OOP-ICT.Second/obj/Debug/net6.0/ref/OOP-ICT.Second.dll

@@ -1,0 +1,14 @@
+/home/kdflr/kdflr/OOP-ICT.Third.Tests/bin/Debug/net6.0/OOP-ICT.Third.Tests
+/home/kdflr/kdflr/OOP-ICT.Third.Tests/bin/Debug/net6.0/OOP-ICT.Third.Tests.deps.json
+/home/kdflr/kdflr/OOP-ICT.Third.Tests/bin/Debug/net6.0/OOP-ICT.Third.Tests.runtimeconfig.json
+/home/kdflr/kdflr/OOP-ICT.Third.Tests/bin/Debug/net6.0/OOP-ICT.Third.Tests.dll
+/home/kdflr/kdflr/OOP-ICT.Third.Tests/bin/Debug/net6.0/OOP-ICT.Third.Tests.pdb
+/home/kdflr/kdflr/OOP-ICT.Third.Tests/obj/Debug/net6.0/OOP-ICT.Third.Tests.GeneratedMSBuildEditorConfig.editorconfig
+/home/kdflr/kdflr/OOP-ICT.Third.Tests/obj/Debug/net6.0/OOP-ICT.Third.Tests.AssemblyInfoInputs.cache
+/home/kdflr/kdflr/OOP-ICT.Third.Tests/obj/Debug/net6.0/OOP-ICT.Third.Tests.AssemblyInfo.cs
+/home/kdflr/kdflr/OOP-ICT.Third.Tests/obj/Debug/net6.0/OOP-ICT.Third.Tests.csproj.CoreCompileInputs.cache
+/home/kdflr/kdflr/OOP-ICT.Third.Tests/obj/Debug/net6.0/OOP-ICT.Third.Tests.dll
+/home/kdflr/kdflr/OOP-ICT.Third.Tests/obj/Debug/net6.0/refint/OOP-ICT.Third.Tests.dll
+/home/kdflr/kdflr/OOP-ICT.Third.Tests/obj/Debug/net6.0/OOP-ICT.Third.Tests.pdb
+/home/kdflr/kdflr/OOP-ICT.Third.Tests/obj/Debug/net6.0/OOP-ICT.Third.Tests.genruntimeconfig.cache
+/home/kdflr/kdflr/OOP-ICT.Third.Tests/obj/Debug/net6.0/ref/OOP-ICT.Third.Tests.dll

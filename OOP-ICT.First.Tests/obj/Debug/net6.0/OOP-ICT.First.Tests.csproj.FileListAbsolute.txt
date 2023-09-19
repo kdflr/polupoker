@@ -1,0 +1,5 @@
+/home/kdflr/kdflr/OOP-ICT.First.Tests/obj/Debug/net6.0/OOP-ICT.First.Tests.csproj.AssemblyReference.cache
+/home/kdflr/kdflr/OOP-ICT.First.Tests/obj/Debug/net6.0/OOP-ICT.First.Tests.GeneratedMSBuildEditorConfig.editorconfig
+/home/kdflr/kdflr/OOP-ICT.First.Tests/obj/Debug/net6.0/OOP-ICT.First.Tests.AssemblyInfoInputs.cache
+/home/kdflr/kdflr/OOP-ICT.First.Tests/obj/Debug/net6.0/OOP-ICT.First.Tests.AssemblyInfo.cs
+/home/kdflr/kdflr/OOP-ICT.First.Tests/obj/Debug/net6.0/OOP-ICT.First.Tests.csproj.CoreCompileInputs.cache

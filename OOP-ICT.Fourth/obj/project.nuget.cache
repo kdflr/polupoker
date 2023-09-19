@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "YaXIDLR/yZSHznmwgZ1ZF/jhl8fniznPbUC1gYyvVUta8EYhz+E/GsBg5T3gRoMUiwrBPEhcqXg2mqv3+zLnIw==",
+  "success": true,
+  "projectFilePath": "/home/kdflr/kdflr/OOP-ICT.Fourth/OOP-ICT.Fourth.csproj",
+  "expectedPackageFiles": [
+    "/home/kdflr/.nuget/packages/microsoft.netcore.app.ref/6.0.22/microsoft.netcore.app.ref.6.0.22.nupkg.sha512",
+    "/home/kdflr/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.22/microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512",
+    "/home/kdflr/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.22/microsoft.netcore.app.host.linux-x64.6.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}

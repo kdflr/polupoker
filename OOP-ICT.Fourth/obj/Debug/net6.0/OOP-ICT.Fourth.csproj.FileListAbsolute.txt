@@ -1,0 +1,14 @@
+/home/kdflr/kdflr/OOP-ICT.Fourth/bin/Debug/net6.0/OOP-ICT.Fourth
+/home/kdflr/kdflr/OOP-ICT.Fourth/bin/Debug/net6.0/OOP-ICT.Fourth.deps.json
+/home/kdflr/kdflr/OOP-ICT.Fourth/bin/Debug/net6.0/OOP-ICT.Fourth.runtimeconfig.json
+/home/kdflr/kdflr/OOP-ICT.Fourth/bin/Debug/net6.0/OOP-ICT.Fourth.dll
+/home/kdflr/kdflr/OOP-ICT.Fourth/bin/Debug/net6.0/OOP-ICT.Fourth.pdb
+/home/kdflr/kdflr/OOP-ICT.Fourth/obj/Debug/net6.0/OOP-ICT.Fourth.GeneratedMSBuildEditorConfig.editorconfig
+/home/kdflr/kdflr/OOP-ICT.Fourth/obj/Debug/net6.0/OOP-ICT.Fourth.AssemblyInfoInputs.cache
+/home/kdflr/kdflr/OOP-ICT.Fourth/obj/Debug/net6.0/OOP-ICT.Fourth.AssemblyInfo.cs
+/home/kdflr/kdflr/OOP-ICT.Fourth/obj/Debug/net6.0/OOP-ICT.Fourth.csproj.CoreCompileInputs.cache
+/home/kdflr/kdflr/OOP-ICT.Fourth/obj/Debug/net6.0/OOP-ICT.Fourth.dll
+/home/kdflr/kdflr/OOP-ICT.Fourth/obj/Debug/net6.0/refint/OOP-ICT.Fourth.dll
+/home/kdflr/kdflr/OOP-ICT.Fourth/obj/Debug/net6.0/OOP-ICT.Fourth.pdb
+/home/kdflr/kdflr/OOP-ICT.Fourth/obj/Debug/net6.0/OOP-ICT.Fourth.genruntimeconfig.cache
+/home/kdflr/kdflr/OOP-ICT.Fourth/obj/Debug/net6.0/ref/OOP-ICT.Fourth.dll

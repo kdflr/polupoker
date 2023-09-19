@@ -1,0 +1,14 @@
+/home/kdflr/kdflr/OOP-ICT.Third/bin/Debug/net6.0/OOP-ICT.Third
+/home/kdflr/kdflr/OOP-ICT.Third/bin/Debug/net6.0/OOP-ICT.Third.deps.json
+/home/kdflr/kdflr/OOP-ICT.Third/bin/Debug/net6.0/OOP-ICT.Third.runtimeconfig.json
+/home/kdflr/kdflr/OOP-ICT.Third/bin/Debug/net6.0/OOP-ICT.Third.dll
+/home/kdflr/kdflr/OOP-ICT.Third/bin/Debug/net6.0/OOP-ICT.Third.pdb
+/home/kdflr/kdflr/OOP-ICT.Third/obj/Debug/net6.0/OOP-ICT.Third.GeneratedMSBuildEditorConfig.editorconfig
+/home/kdflr/kdflr/OOP-ICT.Third/obj/Debug/net6.0/OOP-ICT.Third.AssemblyInfoInputs.cache
+/home/kdflr/kdflr/OOP-ICT.Third/obj/Debug/net6.0/OOP-ICT.Third.AssemblyInfo.cs
+/home/kdflr/kdflr/OOP-ICT.Third/obj/Debug/net6.0/OOP-ICT.Third.csproj.CoreCompileInputs.cache
+/home/kdflr/kdflr/OOP-ICT.Third/obj/Debug/net6.0/OOP-ICT.Third.dll
+/home/kdflr/kdflr/OOP-ICT.Third/obj/Debug/net6.0/refint/OOP-ICT.Third.dll
+/home/kdflr/kdflr/OOP-ICT.Third/obj/Debug/net6.0/OOP-ICT.Third.pdb
+/home/kdflr/kdflr/OOP-ICT.Third/obj/Debug/net6.0/OOP-ICT.Third.genruntimeconfig.cache
+/home/kdflr/kdflr/OOP-ICT.Third/obj/Debug/net6.0/ref/OOP-ICT.Third.dll
